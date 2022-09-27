@@ -1,0 +1,9 @@
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+a=int(input("primera nota:"))
+b=int(input("segunda nota:"))
+c=int(input("tercera nota:"))
+suma=(a+b+c)
+print(suma)
+media=(suma/3)
+print(media)
